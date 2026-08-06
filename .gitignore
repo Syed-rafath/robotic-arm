@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+.pnpm-debug.log*
+
+# local env files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# wwebjs cache
+.wwebjs_cache/
+
+# Optional npm cache
+.npm/
+
+# OS files
+.DS_Store
+Thumbs.db
